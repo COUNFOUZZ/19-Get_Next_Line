@@ -1,4 +1,4 @@
-#	Libft
+#	Get_Next_Line
 <p align="center"> 
 <img alt="final note" src="https://img.shields.io/badge/final%20note-105%25-brightgreen">
 <img alt="total lines" src="https://img.shields.io/tokei/lines/github/COUNFOUZZ/19-Get_Next_Line?style=flat">
